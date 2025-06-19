@@ -2,7 +2,7 @@
 
 A complete GeoJSON implementation for Android.
 
-### Table of Contents
+### Table  one ontents
 
 * [Requirements](#requirements)
 * [Installation](#installation)
